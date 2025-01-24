@@ -86,8 +86,10 @@ This project is licensed under the [MIT](https://choosealicense.com/licenses/mit
 ## Contact
 
 For any inquiries or contributions, please reach out to:
-- **Email:** labibanajmee09gmail.com
-- **GitHub:** 
+
+- Email - labibanajmee09@gmail.com
+
+- GitHub: https://github.com/Labiba786
 
 Thank you for using Travella!
 
